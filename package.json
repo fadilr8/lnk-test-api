@@ -1,0 +1,20 @@
+{
+  "name": "lnk-test",
+  "version": "1.0.0",
+  "description": "Project for LNK corp recruitment test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "FadilR",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mongodb": "^6.5.0",
+    "nodemon": "^3.1.0"
+  }
+}
